@@ -1,4 +1,4 @@
-LLM + RL Interactive Agent: Adaptive NPC Behavior System
+###LLM + RL Interactive Agent: Adaptive NPC Behavior System
 
 # Project Overview
 
