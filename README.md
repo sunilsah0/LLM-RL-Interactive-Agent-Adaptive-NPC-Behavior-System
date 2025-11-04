@@ -1,6 +1,6 @@
 LLM + RL Interactive Agent: Adaptive NPC Behavior System
 
-🌟 Project Overview
+# Project Overview
 
 This project demonstrates a novel Hybrid AI Agent architecture combining the strategic reasoning capabilities of a Large Language Model (LLM) with the real-time, adaptive decision-making of a Reinforcement Learning (RL) agent.
 
