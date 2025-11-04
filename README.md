@@ -6,7 +6,7 @@ This project demonstrates a novel Hybrid AI Agent architecture combining the str
 
 The system is modeled as a simple Guard Agent (G) navigating a 6x6 grid with obstacles (#) to intercept a randomly moving Intruder (I). The LLM acts as a high-level commander, dynamically adjusting the RL agent's goals and learning parameters (hyperparameters) in response to strategic prompts, forcing the agent to adapt its behavior instantly.
 
-🛠️ Key Architectural Concepts
+### Key Architectural Concepts
 
 The single Python file, llm_rl_agent_demo.py, integrates three main components:
 
@@ -26,7 +26,7 @@ GridWorld Environment (The Game):
 
 Features: Includes fixed obstacles (#) and a constantly moving target (I), forcing the agent to learn a reactive, dynamic policy rather than a fixed path.
 
-🚀 How to Run the Demo (GitHub Codespaces)
+### How to Run the Demo (GitHub Codespaces)
 
 The project is designed to be runnable immediately in any standard Python environment, making it perfect for demonstrating on a Codespace or local machine.
 
@@ -45,7 +45,7 @@ Execute the File: Run the simulation directly:
 python llm_rl_agent_demo.py
 
 
-Expected Output
+### Expected Output
 
 The simulation will run for 600 episodes, demonstrating four distinct phases controlled by the simulated LLM policy changes:
 
